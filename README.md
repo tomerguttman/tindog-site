@@ -1,7 +1,6 @@
 # tindog-site 🐶
 
 tindog is a landing page for a fictional idea - tinder for dogs.
-This a project that is part of a Web Developer Bootcamp I am taking on Udemy.
 
 ## Enter The Web Site
 
