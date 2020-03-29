@@ -1,7 +1,3 @@
-# tindog-site 
-Created a TinDog site using html and css.
-The site is hosted in following address - 
-
 # tindog-site 🐶
 
 tindog is a landing page for a fictional idea - tinder for dogs.
